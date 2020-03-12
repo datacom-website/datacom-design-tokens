@@ -1,0 +1,92 @@
+{
+  "font": {
+    "h1": {
+      "size": {
+        "value": "80px"
+      },
+      "line-height": {
+        "value": "100px"
+      },
+      "char-spacing": {
+        "value": "-20px"
+      }
+    },
+    "h2": {
+      "size": {
+        "value": "48px"
+      },
+      "line-height": {
+        "value": "64px"
+      },
+      "char-spacing": {
+        "value": "-20px"
+      }
+    },
+    "h3": {
+      "size": {
+        "value": "40px"
+      },
+      "line-height": {
+        "value": "48px"
+      },
+      "char-spacing": {
+        "value": "-20px"
+      }
+    },
+    "h4": {
+      "size": {
+        "value": "32px"
+      },
+      "line-height": {
+        "value": "40px"
+      },
+      "char-spacing": {
+        "value": "-20px"
+      }
+    },
+    "h5": {
+      "size": {
+        "value": "24px"
+      },
+      "line-height": {
+        "value": "32px"
+      },
+      "char-spacing": {
+        "value": "-10px"
+      }
+    },
+    "cta-large": {
+      "size": {
+        "value": "18px"
+      },
+      "line-height": {
+        "value": "24px"
+      },
+      "char-spacing": {
+        "value": "-10px"
+      }
+    },
+    "body": {
+      "size": {
+        "value": "16px"
+      },
+      "line-height": {
+        "value": "24px"
+      },
+      "char-spacing": {
+        "value": "-10px"
+      }
+    },
+    "captions": {
+      "size": {
+        "value": "14px"
+      },
+      "line-height": {
+        "value": "18px"
+      },
+      "char-spacing": {
+        "value": "-10px"
+      }
+    }
+  }
+}

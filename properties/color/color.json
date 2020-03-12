@@ -1,0 +1,130 @@
+{
+  "color": {
+    "accent-pink": {
+      "base": {
+        "value": "#E60060"
+      },
+      "80": {
+        "value": "#EB337F"
+      },
+      "60": {
+        "value": "#F0669F"
+      },
+      "40": {
+        "value": "#F599BF"
+      },
+      "20": {
+        "value": "#FACCDF"
+      }
+    },
+    "dark-blue": {
+      "base": {
+        "value": "#0A1839"
+      },
+      "80": {
+        "value": "#3B4660"
+      },
+      "60": {
+        "value": "#6C7488"
+      },
+      "40": {
+        "value": "#9DA2AF"
+      },
+      "20": {
+        "value": "#CED0D7"
+      }
+    },
+    "datacom-blue": {
+      "base": {
+        "value": "#002470"
+      },
+      "80": {
+        "value": "#334F8C"
+      },
+      "60": {
+        "value": "#667BA9"
+      },
+      "40": {
+        "value": "#99A7C6"
+      },
+      "20": {
+        "value": "#CCD3E2"
+      }
+    },
+    "action-blue": {
+      "value": "#0055FF"
+    },
+    "light-blue": {
+      "base": {
+        "value": "#76C4FF"
+      },
+      "80": {
+        "value": "#91CFFF"
+      },
+      "60": {
+        "value": "#ACDBFF"
+      },
+      "40": {
+        "value": "#C8E7FF"
+      },
+      "20": {
+        "value": "#E3F3FF"
+      }
+    },
+    "extra-light-blue": {
+      "base": {
+        "value": "#E5F1FF"
+      },
+      "80": {
+        "value": "#EAF3FF"
+      },
+      "60": {
+        "value": "#EFF6FF"
+      },
+      "40": {
+        "value": "#F5F9FF"
+      },
+      "20": {
+        "value": "#FAFCFF"
+      }
+    },
+    "accent-orange": {
+      "base": {
+        "value": "#F04C2C"
+      },
+      "80": {
+        "value": "#F36F56"
+      },
+      "60": {
+        "value": "#F69380"
+      },
+      "40": {
+        "value": "#F9B7AA"
+      },
+      "20": {
+        "value": "#FCDBD4"
+      }
+    },
+    "datacom-black": {
+      "value": "#151515"
+    },
+    "darkest-grey": {
+      "value": "#333333"
+    },
+    "dark-grey": {
+      "value": "#666666"
+    },
+    "grey": {
+      "value": "#999999"
+    },
+    "light-grey": {
+      "value": "#DADADA"
+    },
+    "extra-light-grey": {
+      "value": "#F0F0F0"
+    },
+    "white": {
+      "value": "#FFFFFF"
+    }
+  }
+}
