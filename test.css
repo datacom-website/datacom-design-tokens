@@ -1,3 +1,33 @@
-.test {
-    color:red;
+.postcss-editor-pane-error {
+	--background-color: #eeeeee;
+	--stripe-color: #ff0000;
+
+	overflow: hidden;
+
+	display: flex;
+	flex-direction: column;
+	min-height: 2em;
+
+	padding: 2px;
+
+	/* background-image: repeating-linear-gradient(45deg, var(--background-color), var(--background-color) 10px, var(--stripe-color) 10px, var(--stripe-color) 20px);
+	background-size: 50%;*/
+
+	background: linear-gradient(45deg, var(--background-color) 25%,
+		var(--stripe-color) 25%, var(--stripe-color) 50%,
+		var(--background-color) 50%, var(--background-color) 75%,
+		var(--stripe-color) 75%);
+	background-size: 40px 40px;
+
+	animation: postcss-editor-pane-error-flex-grow 0.15s ease forwards, error-stripe-loading 12s infinite linear;
+
+	.postcss-editor-pane-error-message {
+
+		padding: 8px;
+
+		background: var(--background-color);
+
+		font-family: monospace;
+		white-space: pre;
+	}
 }
