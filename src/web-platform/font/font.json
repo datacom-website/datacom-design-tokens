@@ -1,69 +1,59 @@
 {
   "font": {
-    "h1": {
+    "max-hero": {
       "size": {
         "value": "80px"
       },
       "line-height": {
         "value": "100px"
-      },
-      "char-spacing": {
-        "value": "-20px"
       }
     },
-    "h2": {
+    "hero": {
+      "size": {
+        "value": "64px"
+      },
+      "line-height": {
+        "value": "80px"
+      }
+    },
+    "xlg-heading": {
       "size": {
         "value": "48px"
       },
       "line-height": {
         "value": "64px"
-      },
-      "char-spacing": {
-        "value": "-20px"
       }
     },
-    "h3": {
+    "lg-heading": {
       "size": {
         "value": "40px"
       },
       "line-height": {
         "value": "48px"
-      },
-      "char-spacing": {
-        "value": "-20px"
       }
     },
-    "h4": {
+    "md-heading": {
       "size": {
         "value": "32px"
       },
       "line-height": {
         "value": "40px"
-      },
-      "char-spacing": {
-        "value": "-20px"
       }
     },
-    "h5": {
+    "sm-heading": {
       "size": {
         "value": "24px"
       },
       "line-height": {
         "value": "32px"
-      },
-      "char-spacing": {
-        "value": "-10px"
       }
     },
-    "cta-large": {
+    "cta": {
       "size": {
         "value": "18px"
       },
       "line-height": {
         "value": "24px"
-      },
-      "char-spacing": {
-        "value": "-10px"
       }
     },
     "body": {
@@ -72,9 +62,6 @@
       },
       "line-height": {
         "value": "24px"
-      },
-      "char-spacing": {
-        "value": "-10px"
       }
     },
     "captions": {
@@ -83,9 +70,6 @@
       },
       "line-height": {
         "value": "18px"
-      },
-      "char-spacing": {
-        "value": "-10px"
       }
     }
   }

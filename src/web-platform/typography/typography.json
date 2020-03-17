@@ -1,0 +1,24 @@
+{
+    "typography": {
+        "font-family": {
+            "200": {
+                "value": "'Montserrat Extra Light', sans-serif"
+            },
+            "300": {
+                "value": "'Montserrat Light', sans-serif"
+            },
+            "400": {
+                "value": "'Montserrat Regular', sans-serif"
+            },
+            "500": {
+                "value": "'Montserrat Medium', sans-serif"
+            },
+            "600": {
+                "value": "'Montserrat Semi Bold', sans-serif"
+            },
+            "700": {
+                "value": "'Montserrat Bold', sans-serif"
+            }
+        }
+    }
+}

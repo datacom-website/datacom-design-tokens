@@ -3,13 +3,16 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 12 Mar 2020 21:04:41 GMT
+// Generated on Tue, 17 Mar 2020 00:26:52 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
+    public static let breakpointDesktop = 1300px
+    public static let breakpointMobile = 500px
+    public static let breakpointTablet = 900px
     public static let colorAccentOrange20 = UIColor(red: 0.988, green: 0.859, blue: 0.831, alpha:1)
     public static let colorAccentOrange40 = UIColor(red: 0.976, green: 0.718, blue: 0.667, alpha:1)
     public static let colorAccentOrange60 = UIColor(red: 0.965, green: 0.576, blue: 0.502, alpha:1)
@@ -48,28 +51,33 @@ public class StyleDictionary {
     public static let colorLightBlueBase = UIColor(red: 0.463, green: 0.769, blue: 1.000, alpha:1)
     public static let colorLightGrey = UIColor(red: 0.855, green: 0.855, blue: 0.855, alpha:1)
     public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
-    public static let fontBodyCharSpacing = "-10px"
     public static let fontBodyLineHeight = "24px"
     public static let fontBodySize = "16px"
-    public static let fontCaptionsCharSpacing = "-10px"
     public static let fontCaptionsLineHeight = "18px"
     public static let fontCaptionsSize = "14px"
-    public static let fontCtaLargeCharSpacing = "-10px"
-    public static let fontCtaLargeLineHeight = "24px"
-    public static let fontCtaLargeSize = "18px"
-    public static let fontH1CharSpacing = "-20px"
-    public static let fontH1LineHeight = "100px"
-    public static let fontH1Size = "80px"
-    public static let fontH2CharSpacing = "-20px"
-    public static let fontH2LineHeight = "64px"
-    public static let fontH2Size = "48px"
-    public static let fontH3CharSpacing = "-20px"
-    public static let fontH3LineHeight = "48px"
-    public static let fontH3Size = "40px"
-    public static let fontH4CharSpacing = "-20px"
-    public static let fontH4LineHeight = "40px"
-    public static let fontH4Size = "32px"
-    public static let fontH5CharSpacing = "-10px"
-    public static let fontH5LineHeight = "32px"
-    public static let fontH5Size = "24px"
+    public static let fontColorCaption = UIColor(red: 0.400, green: 0.400, blue: 0.400, alpha:1)
+    public static let fontColorCta = UIColor(red: 0.000, green: 0.333, blue: 1.000, alpha:1)
+    public static let fontColorDefault = UIColor(red: 0.039, green: 0.094, blue: 0.224, alpha:1)
+    public static let fontCtaLineHeight = "24px"
+    public static let fontCtaSize = "18px"
+    public static let fontHeroLineHeight = "80px"
+    public static let fontHeroSize = "64px"
+    public static let fontLgHeadingLineHeight = "48px"
+    public static let fontLgHeadingSize = "40px"
+    public static let fontMaxHeroLineHeight = "100px"
+    public static let fontMaxHeroSize = "80px"
+    public static let fontMdHeadingLineHeight = "40px"
+    public static let fontMdHeadingSize = "32px"
+    public static let fontSmHeadingLineHeight = "32px"
+    public static let fontSmHeadingSize = "24px"
+    public static let fontXlgHeadingLineHeight = "64px"
+    public static let fontXlgHeadingSize = "48px"
+    public static let letterSpacingBody = -0.2px
+    public static let letterSpacingHeading = -0.5px
+    public static let typographyFontFamily200 = 'Montserrat Extra Light', sans-serif
+    public static let typographyFontFamily300 = 'Montserrat Light', sans-serif
+    public static let typographyFontFamily400 = 'Montserrat Regular', sans-serif
+    public static let typographyFontFamily500 = 'Montserrat Medium', sans-serif
+    public static let typographyFontFamily600 = 'Montserrat Semi Bold', sans-serif
+    public static let typographyFontFamily700 = 'Montserrat Bold', sans-serif
 }

@@ -1,0 +1,77 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 17 Mar 2020 00:26:52 GMT
+ */
+
+:root {
+  --color-accent-pink-20: #faccdf;
+  --color-accent-pink-40: #f599bf;
+  --color-accent-pink-60: #f0669f;
+  --color-accent-pink-80: #eb337f;
+  --color-accent-pink-base: #e60060;
+  --color-dark-blue-20: #ced0d7;
+  --color-dark-blue-40: #9da2af;
+  --color-dark-blue-60: #6c7488;
+  --color-dark-blue-80: #3b4660;
+  --color-dark-blue-base: #0a1839;
+  --color-datacom-blue-20: #ccd3e2;
+  --color-datacom-blue-40: #99a7c6;
+  --color-datacom-blue-60: #667ba9;
+  --color-datacom-blue-80: #334f8c;
+  --color-datacom-blue-base: #002470;
+  --color-action-blue: #0055ff;
+  --color-light-blue-20: #e3f3ff;
+  --color-light-blue-40: #c8e7ff;
+  --color-light-blue-60: #acdbff;
+  --color-light-blue-80: #91cfff;
+  --color-light-blue-base: #76c4ff;
+  --color-extra-light-blue-20: #fafcff;
+  --color-extra-light-blue-40: #f5f9ff;
+  --color-extra-light-blue-60: #eff6ff;
+  --color-extra-light-blue-80: #eaf3ff;
+  --color-extra-light-blue-base: #e5f1ff;
+  --color-accent-orange-20: #fcdbd4;
+  --color-accent-orange-40: #f9b7aa;
+  --color-accent-orange-60: #f69380;
+  --color-accent-orange-80: #f36f56;
+  --color-accent-orange-base: #f04c2c;
+  --color-datacom-black: #151515;
+  --color-darkest-grey: #333333;
+  --color-dark-grey: #666666;
+  --color-grey: #999999;
+  --color-light-grey: #dadada;
+  --color-extra-light-grey: #f0f0f0;
+  --color-white: #ffffff;
+  --font-color-default: #0a1839;
+  --font-color-cta: #0055ff;
+  --font-color-caption: #666666;
+  --font-max-hero-size: 80px;
+  --font-max-hero-line-height: 100px;
+  --font-hero-size: 64px;
+  --font-hero-line-height: 80px;
+  --font-xlg-heading-size: 48px;
+  --font-xlg-heading-line-height: 64px;
+  --font-lg-heading-size: 40px;
+  --font-lg-heading-line-height: 48px;
+  --font-md-heading-size: 32px;
+  --font-md-heading-line-height: 40px;
+  --font-sm-heading-size: 24px;
+  --font-sm-heading-line-height: 32px;
+  --font-cta-size: 18px;
+  --font-cta-line-height: 24px;
+  --font-body-size: 16px;
+  --font-body-line-height: 24px;
+  --font-captions-size: 14px;
+  --font-captions-line-height: 18px;
+  --breakpoint-mobile: 500px;
+  --breakpoint-tablet: 900px;
+  --breakpoint-desktop: 1300px;
+  --letter-spacing-heading: -0.5px;
+  --letter-spacing-body: -0.2px;
+  --typography-font-family-200: 'Montserrat Extra Light', sans-serif;
+  --typography-font-family-300: 'Montserrat Light', sans-serif;
+  --typography-font-family-400: 'Montserrat Regular', sans-serif;
+  --typography-font-family-500: 'Montserrat Medium', sans-serif;
+  --typography-font-family-600: 'Montserrat Semi Bold', sans-serif;
+  --typography-font-family-700: 'Montserrat Bold', sans-serif;
+}

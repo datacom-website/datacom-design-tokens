@@ -1,0 +1,15 @@
+{
+    "font": {
+        "color": {
+            "default": {
+                "value": "{color.dark-blue.base.value}"
+            },
+            "cta": {
+                "value": "{color.action-blue.value}"
+            },
+            "caption": {
+                "value": "{color.dark-grey.value}"
+            }
+        }
+    }
+}
