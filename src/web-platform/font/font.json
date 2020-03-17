@@ -1,6 +1,6 @@
 {
   "font": {
-    "max-hero": {
+    "h1": {
       "size": {
         "value": "80px"
       },
@@ -8,7 +8,7 @@
         "value": "100px"
       }
     },
-    "hero": {
+    "h2": {
       "size": {
         "value": "64px"
       },
@@ -16,7 +16,7 @@
         "value": "80px"
       }
     },
-    "xlg-heading": {
+    "h3": {
       "size": {
         "value": "48px"
       },
@@ -24,7 +24,7 @@
         "value": "64px"
       }
     },
-    "lg-heading": {
+    "h4": {
       "size": {
         "value": "40px"
       },
@@ -32,7 +32,7 @@
         "value": "48px"
       }
     },
-    "md-heading": {
+    "h5": {
       "size": {
         "value": "32px"
       },
@@ -40,7 +40,7 @@
         "value": "40px"
       }
     },
-    "sm-heading": {
+    "h6": {
       "size": {
         "value": "24px"
       },

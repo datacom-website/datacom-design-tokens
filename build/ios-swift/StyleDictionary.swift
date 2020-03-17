@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 17 Mar 2020 00:26:52 GMT
+// Generated on Tue, 17 Mar 2020 03:13:21 GMT
 //
 
 
@@ -60,18 +60,18 @@ public class StyleDictionary {
     public static let fontColorDefault = UIColor(red: 0.039, green: 0.094, blue: 0.224, alpha:1)
     public static let fontCtaLineHeight = "24px"
     public static let fontCtaSize = "18px"
-    public static let fontHeroLineHeight = "80px"
-    public static let fontHeroSize = "64px"
-    public static let fontLgHeadingLineHeight = "48px"
-    public static let fontLgHeadingSize = "40px"
-    public static let fontMaxHeroLineHeight = "100px"
-    public static let fontMaxHeroSize = "80px"
-    public static let fontMdHeadingLineHeight = "40px"
-    public static let fontMdHeadingSize = "32px"
-    public static let fontSmHeadingLineHeight = "32px"
-    public static let fontSmHeadingSize = "24px"
-    public static let fontXlgHeadingLineHeight = "64px"
-    public static let fontXlgHeadingSize = "48px"
+    public static let fontH1LineHeight = "100px"
+    public static let fontH1Size = "80px"
+    public static let fontH2LineHeight = "80px"
+    public static let fontH2Size = "64px"
+    public static let fontH3LineHeight = "64px"
+    public static let fontH3Size = "48px"
+    public static let fontH4LineHeight = "48px"
+    public static let fontH4Size = "40px"
+    public static let fontH5LineHeight = "40px"
+    public static let fontH5Size = "32px"
+    public static let fontH6LineHeight = "32px"
+    public static let fontH6Size = "24px"
     public static let letterSpacingBody = -0.2px
     public static let letterSpacingHeading = -0.5px
     public static let typographyFontFamily200 = 'Montserrat Extra Light', sans-serif
