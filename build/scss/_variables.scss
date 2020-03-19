@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Thu, 19 Mar 2020 01:43:00 GMT
+// Generated on Thu, 19 Mar 2020 03:29:02 GMT
 
 $color-accent-pink-20: #faccdf;
 $color-accent-pink-40: #f599bf;
@@ -40,6 +40,24 @@ $color-grey: #999999;
 $color-light-grey: #dadada;
 $color-extra-light-grey: #f0f0f0;
 $color-white: #ffffff;
+$font-14-size: 14px;
+$font-14-line-height: 18px;
+$font-16-size: 16px;
+$font-16-line-height: 24px;
+$font-18-size: 18px;
+$font-18-line-height: 24px;
+$font-24-size: 24px;
+$font-24-line-height: 32px;
+$font-32-size: 32px;
+$font-32-line-height: 40px;
+$font-40-size: 40px;
+$font-40-line-height: 48px;
+$font-48-size: 48px;
+$font-48-line-height: 64px;
+$font-64-size: 64px;
+$font-64-line-height: 80px;
+$font-80-size: 80px;
+$font-80-line-height: 100px;
 $font-color-default: #0a1839;
 $font-color-cta: #0055ff;
 $font-color-caption: #666666;
@@ -66,6 +84,8 @@ $breakpoint-tablet: 900px;
 $breakpoint-desktop: 1300px;
 $letter-spacing-heading: -0.5px;
 $letter-spacing-body: -0.2px;
+$letter-spacing-large: -0.5px;
+$letter-spacing-small: -0.2px;
 $typography-font-family-200: 'Montserrat Extra Light', sans-serif;
 $typography-font-family-300: 'Montserrat Light', sans-serif;
 $typography-font-family-400: 'Montserrat Regular', sans-serif;
