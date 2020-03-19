@@ -71,6 +71,78 @@
       "line-height": {
         "value": "18px"
       }
+    },
+    "80": {
+      "size": {
+        "value": "80px"
+      },
+      "line-height": {
+        "value": "100px"
+      }
+    },
+    "64": {
+      "size": {
+        "value": "64px"
+      },
+      "line-height": {
+        "value": "80px"
+      }
+    },
+    "48": {
+      "size": {
+        "value": "48px"
+      },
+      "line-height": {
+        "value": "64px"
+      }
+    },
+    "40": {
+      "size": {
+        "value": "40px"
+      },
+      "line-height": {
+        "value": "48px"
+      }
+    },
+    "32": {
+      "size": {
+        "value": "32px"
+      },
+      "line-height": {
+        "value": "40px"
+      }
+    },
+    "24": {
+      "size": {
+        "value": "24px"
+      },
+      "line-height": {
+        "value": "32px"
+      }
+    },
+    "18": {
+      "size": {
+        "value": "18px"
+      },
+      "line-height": {
+        "value": "24px"
+      }
+    },
+    "16": {
+      "size": {
+        "value": "16px"
+      },
+      "line-height": {
+        "value": "24px"
+      }
+    },
+    "14": {
+      "size": {
+        "value": "14px"
+      },
+      "line-height": {
+        "value": "18px"
+      }
     }
   }
 }
