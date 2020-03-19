@@ -1,6 +1,8 @@
-# Basic Style Dictionary
+# Datacom Style Dictionary
 
-This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run:
+This contains the all the style tokens for the datacom brand. The tokens can be built for 3 different platforms at the moment - web, android and ios. The tokens are stored as JSON files under `src/`. The brand colors are under `src/color` and applies to all platforms. However things like fonts and typography can be specific to platforms and these can be found in `src/web-platform`. To create new tokens specific to ios or android please create `src/ios-platform` or `src/android-platform`.
+
+To build the styles you can `cd` into this directory and run:
 ```bash
 npm run build
 ```
