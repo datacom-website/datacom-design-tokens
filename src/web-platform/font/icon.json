@@ -3,10 +3,16 @@
     "24": {
       "size": {
         "value": "24px"
+      },
+      "line-height": {
+        "value": "24px"
       }
     },
     "20": {
       "size": {
+        "value": "20px"
+      },
+      "line-height": {
         "value": "20px"
       }
     }
