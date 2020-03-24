@@ -4,6 +4,7 @@ This contains the all the style tokens for the datacom brand. The tokens can be 
 
 To build the styles you can `cd` into this directory and run:
 ```bash
+npm i
 npm run build
 ```
 
