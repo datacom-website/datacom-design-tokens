@@ -1,8 +1,14 @@
-# Datacom Style Dictionary
+# Datacom Design Tokens
 
-This contains the all the style tokens for the datacom brand. The tokens can be built for 3 different platforms at the moment - web, android and ios. The tokens are stored as JSON files under `src/`. The brand colors are under `src/color` and applies to all platforms. However things like fonts and typography can be specific to platforms and these can be found in `src/web-platform`. To create new tokens specific to ios or android please create `src/ios-platform` or `src/android-platform`.
+This contains the all the style tokens for the Datacom brand. The tokens can be built for 3 different platforms at the moment - web, android and ios. The tokens are stored as JSON files under `src/`. The brand colors are under `src/color` and applies to all platforms. However things like fonts and typography can be specific to platforms and for web these can be found in `src/web-platform`. To create new tokens specific to ios or android please create `src/ios-platform` or `src/android-platform`.
 
-To build the styles you can `cd` into this directory and run:
+Please be careful when changing tokens shared between platforms as other teams at Datacom might be using these.
+
+To make changes go into the JSON files inside `src/`. The JSON files are built using [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/), go to their site for more information on syntax and functionality.
+
+If the file format you need is not being built at the moment you can edit the `build.js` file to add the format. For more information on this and which format is supported head to [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/) and [this Medium article](https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa).
+
+To build the styles you can run:
 ```bash
 npm i
 npm run build
@@ -56,19 +62,17 @@ End processing
 
 ```
 
-Pat yourself on the back, you have now built your first style dictionary! Moving on, take a look at what we have built. This should have created a build directory and it should look like this:
+Pat yourself on the back, you have now built your first style dictionary! Moving on, take a look at what we have built. This should have created a build directory and it should look similar to this:
 ```
 ├── README.md
-├── config.json
-├── properties/
+├── build.js
+├── src/
 │   ├── color/
-│       ├── base.json
+│       ├── color.json
 │       ├── font.json
-│   ├── size/
-│       ├── font.json
+│   ├── web-platform/   
 ├── build/
 │   ├── android/
-│      ├── font_dimens.xml
 │      ├── colors.xml
 │   ├── scss/
 │      ├── _variables.scss
