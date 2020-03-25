@@ -1,9 +1,12 @@
 # Datacom Design Tokens
 
+### Getting Started
 This contains the all the style tokens for the Datacom brand. The tokens can be built for 3 different platforms at the moment - web, android and ios. The tokens are stored as JSON files under `src/`. The brand colors are under `src/color` and applies to all platforms. However things like fonts and typography can be specific to platforms and for web these can be found in `src/web-platform`. To create new tokens specific to ios or android please create `src/ios-platform` or `src/android-platform`.
 
-Please be careful when changing tokens shared between platforms as other teams at Datacom might be using these.
+### Warning
+Please be careful when changing tokens shared between platforms as other projects and teams at Datacom might be using these.
 
+### Making Changes
 To make changes go into the JSON files inside `src/`. The JSON files are built using [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/), go to their site for more information on syntax and functionality.
 
 If the file format you need is not being built at the moment you can edit the `build.js` file to add the format. For more information on this and which format is supported head to [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/) and [this Medium article](https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa).
