@@ -1,11 +1,5 @@
 {
     "letter-spacing": {
-        "heading": {
-            "value": "-0.5px"
-        },
-        "body": {
-            "value": "-0.2px"
-        },
         "large": {
             "value": "-0.5px"
         },
