@@ -87,7 +87,9 @@ Pat yourself on the back, you have now built your first style dictionary! Moving
 │      ├── StyleDictionaryColor.swift
 ```
 
-If you open `build.js` you will see there are 3 platforms defined: scss, android, ios. Each platform has a transformGroup, buildPath, and files. The buildPath and files of the platform should match up to the files what were built. 
+### Building for Other Platforms 🤖
+
+If you open `build.js` you will see there are 3 platforms defined: web (scss, less, css), android, ios. Each platform has a transformGroup, buildPath, and files. The buildPath and files of the platform should match up to the files what were built. 
 
 Pretty nifty! This shows a few things happening:
 1. The build system does a deep merge of all the property JSON files defined in the `source` attribute of `config.json`. This allows you to split up the property JSON files however you want. There are 2 JSON files with `color` as the top level key, but they get merged properly.
