@@ -9,7 +9,7 @@ Please be careful when changing tokens shared between platforms as other project
 ### Making Changes ✏
 To make changes go into the JSON files inside `src/`. The JSON files are built using [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/), go to their site for more information on syntax and functionality.
 
-If the file format you need is not being built at the moment you can edit the `build.js` file to add the format. For more information on this and which format is supported head to [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/) and [this Medium article](https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa).
+If the file format you need is not being built at the moment you can edit the `build.js` file to add the format. For more information on this and which format is supported head to [Amazon Style Dictionary](https://amzn.github.io/style-dictionary/) or [this Medium article](https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa) or [the bottom of this page](https://github.com/datacom-website/datacom-design-tokens/blob/master/README.md#building-for-other-platforms-).
 
 To build the styles you can run:
 ```bash
