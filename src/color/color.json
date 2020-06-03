@@ -125,6 +125,9 @@
     },
     "white": {
       "value": "#FFFFFF"
+    },
+    "error-red": {
+      "value": "#CF364E"
     }
   }
 }

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 28 Apr 2020 21:58:03 GMT
+ * Generated on Wed, 03 Jun 2020 22:21:52 GMT
  */
 
 :root {
@@ -42,6 +42,7 @@
   --color-light-grey: #dadada;
   --color-extra-light-grey: #f0f0f0;
   --color-white: #ffffff;
+  --color-error-red: #cf364e;
   --font-14-size: 14px;
   --font-14-line-height: 18px;
   --font-16-size: 16px;

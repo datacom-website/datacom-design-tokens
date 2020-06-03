@@ -3,7 +3,7 @@
 // StyleDictionaryColor.m
 //
 // Do not edit directly
-// Generated on Tue, 28 Apr 2020 21:58:03 GMT
+// Generated on Wed, 03 Jun 2020 22:21:52 GMT
 //
 
 #import "StyleDictionaryColor.h"
@@ -58,7 +58,8 @@
 [UIColor colorWithRed:0.600f green:0.600f blue:0.600f alpha:1.000f],
 [UIColor colorWithRed:0.855f green:0.855f blue:0.855f alpha:1.000f],
 [UIColor colorWithRed:0.941f green:0.941f blue:0.941f alpha:1.000f],
-[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f]
+[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],
+[UIColor colorWithRed:0.812f green:0.212f blue:0.306f alpha:1.000f]
     ];
   });
 
