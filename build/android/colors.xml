@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 03 Jun 2020 22:21:52 GMT
+  Generated on Mon, 22 Jun 2020 08:47:28 GMT
 -->
 <resources>
   <color name="color_accent_pink_20">#fffaccdf</color>
@@ -43,6 +43,5 @@
   <color name="color_light_grey">#ffdadada</color>
   <color name="color_extra_light_grey">#fff0f0f0</color>
   <color name="color_white">#ffffffff</color>
-  <color name="color_error_red">#ffcf364e</color>
   
 </resources>
