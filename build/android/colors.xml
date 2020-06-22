@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 22 Jun 2020 08:47:28 GMT
+  Generated on Mon, 22 Jun 2020 08:55:39 GMT
 -->
 <resources>
   <color name="color_accent_pink_20">#fffaccdf</color>
@@ -36,6 +36,9 @@
   <color name="color_accent_orange_60">#fff69380</color>
   <color name="color_accent_orange_80">#fff36f56</color>
   <color name="color_accent_orange_base">#fff04c2c</color>
+  <color name="color_rag_red">#ffcf364e</color>
+  <color name="color_rag_amber">#fff0b02c</color>
+  <color name="color_rag_green">#ff40b549</color>
   <color name="color_datacom_black">#ff151515</color>
   <color name="color_darkest_grey">#ff333333</color>
   <color name="color_dark_grey">#ff666666</color>
@@ -43,5 +46,6 @@
   <color name="color_light_grey">#ffdadada</color>
   <color name="color_extra_light_grey">#fff0f0f0</color>
   <color name="color_white">#ffffffff</color>
+  <color name="color_error_red">#ffcf364e</color>
   
 </resources>

@@ -105,6 +105,17 @@
         "value": "#FCDBD4"
       }
     },
+    "rag": {
+      "red": {
+        "value": "#CF364E"
+      },
+      "amber": {
+        "value": "#F0B02C"
+      },
+      "green": {
+        "value": "#40B549"
+      }
+    },
     "datacom-black": {
       "value": "#151515"
     },
@@ -125,6 +136,9 @@
     },
     "white": {
       "value": "#FFFFFF"
+    },
+    "error-red": {
+      "value": "#CF364E"
     }
   }
 }

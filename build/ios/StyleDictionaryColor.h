@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Mon, 22 Jun 2020 08:47:28 GMT
+// Generated on Mon, 22 Jun 2020 08:55:39 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -41,13 +41,17 @@ ColorAccentOrange40,
 ColorAccentOrange60,
 ColorAccentOrange80,
 ColorAccentOrangeBase,
+ColorRagRed,
+ColorRagAmber,
+ColorRagGreen,
 ColorDatacomBlack,
 ColorDarkestGrey,
 ColorDarkGrey,
 ColorGrey,
 ColorLightGrey,
 ColorExtraLightGrey,
-ColorWhite
+ColorWhite,
+ColorErrorRed
 };
 
 @interface StyleDictionaryColor : NSObject

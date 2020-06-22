@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Mon, 22 Jun 2020 08:47:28 GMT
+// Generated on Mon, 22 Jun 2020 08:55:39 GMT
 //
 
 import UIKit
@@ -33,6 +33,7 @@ public enum StyleDictionaryColor {
     public static let datacomBlue60 = UIColor(red: 0.400, green: 0.482, blue: 0.663, alpha:1)
     public static let datacomBlue80 = UIColor(red: 0.200, green: 0.310, blue: 0.549, alpha:1)
     public static let datacomBlueBase = UIColor(red: 0.000, green: 0.141, blue: 0.439, alpha:1)
+    public static let errorRed = UIColor(red: 0.812, green: 0.212, blue: 0.306, alpha:1)
     public static let extraLightBlue20 = UIColor(red: 0.980, green: 0.988, blue: 1.000, alpha:1)
     public static let extraLightBlue40 = UIColor(red: 0.961, green: 0.976, blue: 1.000, alpha:1)
     public static let extraLightBlue60 = UIColor(red: 0.937, green: 0.965, blue: 1.000, alpha:1)
@@ -46,5 +47,8 @@ public enum StyleDictionaryColor {
     public static let lightBlue80 = UIColor(red: 0.569, green: 0.812, blue: 1.000, alpha:1)
     public static let lightBlueBase = UIColor(red: 0.463, green: 0.769, blue: 1.000, alpha:1)
     public static let lightGrey = UIColor(red: 0.855, green: 0.855, blue: 0.855, alpha:1)
+    public static let ragAmber = UIColor(red: 0.941, green: 0.690, blue: 0.173, alpha:1)
+    public static let ragGreen = UIColor(red: 0.251, green: 0.710, blue: 0.286, alpha:1)
+    public static let ragRed = UIColor(red: 0.812, green: 0.212, blue: 0.306, alpha:1)
     public static let white = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
 }
