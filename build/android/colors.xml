@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 22 Jun 2020 08:55:39 GMT
+  Generated on Mon, 22 Jun 2020 09:00:36 GMT
 -->
 <resources>
   <color name="color_accent_pink_20">#fffaccdf</color>
@@ -21,6 +21,7 @@
   <color name="color_datacom_blue_80">#ff334f8c</color>
   <color name="color_datacom_blue_base">#ff002470</color>
   <color name="color_action_blue">#ff0055ff</color>
+  <color name="color_action_blue_hover">#ff003fbc</color>
   <color name="color_light_blue_20">#ffe3f3ff</color>
   <color name="color_light_blue_40">#ffc8e7ff</color>
   <color name="color_light_blue_60">#ffacdbff</color>

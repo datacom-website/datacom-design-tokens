@@ -54,6 +54,9 @@
     "action-blue": {
       "value": "#0055FF"
     },
+    "action-blue-hover": {
+      "value": "#003FBC"
+    },
     "light-blue": {
       "base": {
         "value": "#76C4FF"

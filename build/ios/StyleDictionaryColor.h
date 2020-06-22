@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Mon, 22 Jun 2020 08:55:39 GMT
+// Generated on Mon, 22 Jun 2020 09:00:36 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -26,6 +26,7 @@ ColorDatacomBlue60,
 ColorDatacomBlue80,
 ColorDatacomBlueBase,
 ColorActionBlue,
+ColorActionBlueHover,
 ColorLightBlue20,
 ColorLightBlue40,
 ColorLightBlue60,

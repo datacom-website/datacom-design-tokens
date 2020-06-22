@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Mon, 22 Jun 2020 08:55:39 GMT
+// Generated on Mon, 22 Jun 2020 09:00:36 GMT
 //
 
 import UIKit
@@ -20,6 +20,7 @@ public enum StyleDictionaryColor {
     public static let accentPink80 = UIColor(red: 0.922, green: 0.200, blue: 0.498, alpha:1)
     public static let accentPinkBase = UIColor(red: 0.902, green: 0.000, blue: 0.376, alpha:1)
     public static let actionBlue = UIColor(red: 0.000, green: 0.333, blue: 1.000, alpha:1)
+    public static let actionBlueHover = UIColor(red: 0.000, green: 0.247, blue: 0.737, alpha:1)
     public static let darkBlue20 = UIColor(red: 0.808, green: 0.816, blue: 0.843, alpha:1)
     public static let darkBlue40 = UIColor(red: 0.616, green: 0.635, blue: 0.686, alpha:1)
     public static let darkBlue60 = UIColor(red: 0.424, green: 0.455, blue: 0.533, alpha:1)

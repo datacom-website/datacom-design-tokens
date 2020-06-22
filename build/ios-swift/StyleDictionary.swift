@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Mon, 22 Jun 2020 08:55:39 GMT
+// Generated on Mon, 22 Jun 2020 09:00:36 GMT
 //
 
 
@@ -21,6 +21,7 @@ public class StyleDictionary {
     public static let colorAccentPink80 = UIColor(red: 0.922, green: 0.200, blue: 0.498, alpha:1)
     public static let colorAccentPinkBase = UIColor(red: 0.902, green: 0.000, blue: 0.376, alpha:1)
     public static let colorActionBlue = UIColor(red: 0.000, green: 0.333, blue: 1.000, alpha:1)
+    public static let colorActionBlueHover = UIColor(red: 0.000, green: 0.247, blue: 0.737, alpha:1)
     public static let colorDarkBlue20 = UIColor(red: 0.808, green: 0.816, blue: 0.843, alpha:1)
     public static let colorDarkBlue40 = UIColor(red: 0.616, green: 0.635, blue: 0.686, alpha:1)
     public static let colorDarkBlue60 = UIColor(red: 0.424, green: 0.455, blue: 0.533, alpha:1)
