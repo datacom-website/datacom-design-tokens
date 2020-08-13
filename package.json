@@ -1,11 +1,28 @@
 {
-    "name": "datacom-design-tokens",
-    "version": "0.0.1",
-    "main": "build.js",
-    "dependencies": {
-        "style-dictionary": "^2.8.3"
-    },
-    "scripts": {
-        "build": "node ./build.js"
-    }
+  "name": "datacom-design-tokens",
+  "version": "0.0.2",
+  "main": "build.js",
+  "dependencies": {
+    "style-dictionary": "^2.8.3"
+  },
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "description": "### Getting Started 🚀 This contains the all the style tokens for the Datacom brand. The tokens can be built for 3 different platforms at the moment - web, android and ios. The tokens are stored as JSON files under `src/`. The brand colors are under `src/color` and applies to all platforms. However things like fonts and typography can be specific to platforms and for web these can be found in `src/web-platform`. To create new tokens specific to ios or android please create `src/ios-platform` or `src/android-platform`.",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://datacom-website:Datacom2020@github.com/datacom-website/datacom-design-tokens.git.git"
+  },
+  "keywords": [
+    "datacom",
+    "design",
+    "tokens"
+  ],
+  "author": "Datacom <datacom.tokens@gmail.com> (datacom.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datacom-website/datacom-design-tokens.git/issues"
+  },
+  "homepage": "https://github.com/datacom-website/datacom-design-tokens.git#readme"
 }
