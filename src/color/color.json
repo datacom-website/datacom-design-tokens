@@ -91,6 +91,40 @@
         "value": "#FAFCFF"
       }
     },
+    "cobalt-blue": {
+      "base": {
+        "value": "#0047BA"
+      },
+      "80": {
+        "value": "#486DC2"
+      },
+      "60": {
+        "value": "#7692D2"
+      },
+      "40": {
+        "value": "#A3B6E0"
+      },
+      "20": {
+        "value": "#D1DAF0"
+      }
+    },
+    "sky-blue": {
+      "base": {
+        "value": "#00A7E1"
+      },
+      "80": {
+        "value": "#6DB6E3"
+      },
+      "60": {
+        "value": "#92C9EA"
+      },
+      "40": {
+        "value": "#B6DAF1"
+      },
+      "20": {
+        "value": "#DBEDF8"
+      }
+    },
     "accent-orange": {
       "base": {
         "value": "#F04C2C"

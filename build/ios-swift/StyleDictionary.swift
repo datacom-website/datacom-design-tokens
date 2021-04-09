@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Mon, 22 Jun 2020 09:00:36 GMT
+// Generated on Fri, 09 Apr 2021 03:31:48 GMT
 //
 
 
@@ -22,6 +22,11 @@ public class StyleDictionary {
     public static let colorAccentPinkBase = UIColor(red: 0.902, green: 0.000, blue: 0.376, alpha:1)
     public static let colorActionBlue = UIColor(red: 0.000, green: 0.333, blue: 1.000, alpha:1)
     public static let colorActionBlueHover = UIColor(red: 0.000, green: 0.247, blue: 0.737, alpha:1)
+    public static let colorCobaltBlue20 = UIColor(red: 0.820, green: 0.855, blue: 0.941, alpha:1)
+    public static let colorCobaltBlue40 = UIColor(red: 0.639, green: 0.714, blue: 0.878, alpha:1)
+    public static let colorCobaltBlue60 = UIColor(red: 0.463, green: 0.573, blue: 0.824, alpha:1)
+    public static let colorCobaltBlue80 = UIColor(red: 0.282, green: 0.427, blue: 0.761, alpha:1)
+    public static let colorCobaltBlueBase = UIColor(red: 0.000, green: 0.278, blue: 0.729, alpha:1)
     public static let colorDarkBlue20 = UIColor(red: 0.808, green: 0.816, blue: 0.843, alpha:1)
     public static let colorDarkBlue40 = UIColor(red: 0.616, green: 0.635, blue: 0.686, alpha:1)
     public static let colorDarkBlue60 = UIColor(red: 0.424, green: 0.455, blue: 0.533, alpha:1)
@@ -52,6 +57,11 @@ public class StyleDictionary {
     public static let colorRagAmber = UIColor(red: 0.941, green: 0.690, blue: 0.173, alpha:1)
     public static let colorRagGreen = UIColor(red: 0.251, green: 0.710, blue: 0.286, alpha:1)
     public static let colorRagRed = UIColor(red: 0.812, green: 0.212, blue: 0.306, alpha:1)
+    public static let colorSkyBlue20 = UIColor(red: 0.859, green: 0.929, blue: 0.973, alpha:1)
+    public static let colorSkyBlue40 = UIColor(red: 0.714, green: 0.855, blue: 0.945, alpha:1)
+    public static let colorSkyBlue60 = UIColor(red: 0.573, green: 0.788, blue: 0.918, alpha:1)
+    public static let colorSkyBlue80 = UIColor(red: 0.427, green: 0.714, blue: 0.890, alpha:1)
+    public static let colorSkyBlueBase = UIColor(red: 0.000, green: 0.655, blue: 0.882, alpha:1)
     public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let fontColorCaption = UIColor(red: 0.400, green: 0.400, blue: 0.400, alpha:1)
     public static let fontColorCta = UIColor(red: 0.000, green: 0.333, blue: 1.000, alpha:1)

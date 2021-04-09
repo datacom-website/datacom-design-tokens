@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Mon, 22 Jun 2020 09:00:36 GMT
+// Generated on Fri, 09 Apr 2021 03:31:48 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -37,6 +37,16 @@ ColorExtraLightBlue40,
 ColorExtraLightBlue60,
 ColorExtraLightBlue80,
 ColorExtraLightBlueBase,
+ColorCobaltBlue20,
+ColorCobaltBlue40,
+ColorCobaltBlue60,
+ColorCobaltBlue80,
+ColorCobaltBlueBase,
+ColorSkyBlue20,
+ColorSkyBlue40,
+ColorSkyBlue60,
+ColorSkyBlue80,
+ColorSkyBlueBase,
 ColorAccentOrange20,
 ColorAccentOrange40,
 ColorAccentOrange60,

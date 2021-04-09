@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 22 Jun 2020 09:00:36 GMT
+  Generated on Fri, 09 Apr 2021 03:31:48 GMT
 -->
 <resources>
   <color name="color_accent_pink_20">#fffaccdf</color>
@@ -32,6 +32,16 @@
   <color name="color_extra_light_blue_60">#ffeff6ff</color>
   <color name="color_extra_light_blue_80">#ffeaf3ff</color>
   <color name="color_extra_light_blue_base">#ffe5f1ff</color>
+  <color name="color_cobalt_blue_20">#ffd1daf0</color>
+  <color name="color_cobalt_blue_40">#ffa3b6e0</color>
+  <color name="color_cobalt_blue_60">#ff7692d2</color>
+  <color name="color_cobalt_blue_80">#ff486dc2</color>
+  <color name="color_cobalt_blue_base">#ff0047ba</color>
+  <color name="color_sky_blue_20">#ffdbedf8</color>
+  <color name="color_sky_blue_40">#ffb6daf1</color>
+  <color name="color_sky_blue_60">#ff92c9ea</color>
+  <color name="color_sky_blue_80">#ff6db6e3</color>
+  <color name="color_sky_blue_base">#ff00a7e1</color>
   <color name="color_accent_orange_20">#fffcdbd4</color>
   <color name="color_accent_orange_40">#fff9b7aa</color>
   <color name="color_accent_orange_60">#fff69380</color>

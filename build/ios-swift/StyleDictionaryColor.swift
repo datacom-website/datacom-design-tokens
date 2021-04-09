@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Mon, 22 Jun 2020 09:00:36 GMT
+// Generated on Fri, 09 Apr 2021 03:31:48 GMT
 //
 
 import UIKit
@@ -21,6 +21,11 @@ public enum StyleDictionaryColor {
     public static let accentPinkBase = UIColor(red: 0.902, green: 0.000, blue: 0.376, alpha:1)
     public static let actionBlue = UIColor(red: 0.000, green: 0.333, blue: 1.000, alpha:1)
     public static let actionBlueHover = UIColor(red: 0.000, green: 0.247, blue: 0.737, alpha:1)
+    public static let cobaltBlue20 = UIColor(red: 0.820, green: 0.855, blue: 0.941, alpha:1)
+    public static let cobaltBlue40 = UIColor(red: 0.639, green: 0.714, blue: 0.878, alpha:1)
+    public static let cobaltBlue60 = UIColor(red: 0.463, green: 0.573, blue: 0.824, alpha:1)
+    public static let cobaltBlue80 = UIColor(red: 0.282, green: 0.427, blue: 0.761, alpha:1)
+    public static let cobaltBlueBase = UIColor(red: 0.000, green: 0.278, blue: 0.729, alpha:1)
     public static let darkBlue20 = UIColor(red: 0.808, green: 0.816, blue: 0.843, alpha:1)
     public static let darkBlue40 = UIColor(red: 0.616, green: 0.635, blue: 0.686, alpha:1)
     public static let darkBlue60 = UIColor(red: 0.424, green: 0.455, blue: 0.533, alpha:1)
@@ -51,5 +56,10 @@ public enum StyleDictionaryColor {
     public static let ragAmber = UIColor(red: 0.941, green: 0.690, blue: 0.173, alpha:1)
     public static let ragGreen = UIColor(red: 0.251, green: 0.710, blue: 0.286, alpha:1)
     public static let ragRed = UIColor(red: 0.812, green: 0.212, blue: 0.306, alpha:1)
+    public static let skyBlue20 = UIColor(red: 0.859, green: 0.929, blue: 0.973, alpha:1)
+    public static let skyBlue40 = UIColor(red: 0.714, green: 0.855, blue: 0.945, alpha:1)
+    public static let skyBlue60 = UIColor(red: 0.573, green: 0.788, blue: 0.918, alpha:1)
+    public static let skyBlue80 = UIColor(red: 0.427, green: 0.714, blue: 0.890, alpha:1)
+    public static let skyBlueBase = UIColor(red: 0.000, green: 0.655, blue: 0.882, alpha:1)
     public static let white = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
 }
