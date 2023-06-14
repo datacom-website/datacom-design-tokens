@@ -2,41 +2,41 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 09 Apr 2021 03:31:48 GMT
+  Generated on Wed, 14 Jun 2023 03:54:31 GMT
 -->
 <resources>
   <color name="color_accent_pink_20">#fffaccdf</color>
   <color name="color_accent_pink_40">#fff599bf</color>
   <color name="color_accent_pink_60">#fff0669f</color>
   <color name="color_accent_pink_80">#ffeb337f</color>
-  <color name="color_accent_pink_base">#ffe60060</color>
+  <color name="color_accent_pink_base">#ffff0070</color>
   <color name="color_dark_blue_20">#ffced0d7</color>
   <color name="color_dark_blue_40">#ff9da2af</color>
   <color name="color_dark_blue_60">#ff6c7488</color>
   <color name="color_dark_blue_80">#ff3b4660</color>
-  <color name="color_dark_blue_base">#ff0a1839</color>
+  <color name="color_dark_blue_base">#ff000a14</color>
   <color name="color_datacom_blue_20">#ffccd3e2</color>
   <color name="color_datacom_blue_40">#ff99a7c6</color>
   <color name="color_datacom_blue_60">#ff667ba9</color>
   <color name="color_datacom_blue_80">#ff334f8c</color>
-  <color name="color_datacom_blue_base">#ff002470</color>
-  <color name="color_action_blue">#ff0055ff</color>
-  <color name="color_action_blue_hover">#ff003fbc</color>
+  <color name="color_datacom_blue_base">#ff00125e</color>
+  <color name="color_action_blue">#ff002bfe</color>
+  <color name="color_action_blue_hover">#ff0022cb</color>
   <color name="color_light_blue_20">#ffe3f3ff</color>
   <color name="color_light_blue_40">#ffc8e7ff</color>
   <color name="color_light_blue_60">#ffacdbff</color>
   <color name="color_light_blue_80">#ff91cfff</color>
-  <color name="color_light_blue_base">#ff76c4ff</color>
+  <color name="color_light_blue_base">#ff80a0f8</color>
   <color name="color_extra_light_blue_20">#fffafcff</color>
   <color name="color_extra_light_blue_40">#fff5f9ff</color>
   <color name="color_extra_light_blue_60">#ffeff6ff</color>
   <color name="color_extra_light_blue_80">#ffeaf3ff</color>
-  <color name="color_extra_light_blue_base">#ffe5f1ff</color>
+  <color name="color_extra_light_blue_base">#ffccd9fc</color>
   <color name="color_cobalt_blue_20">#ffd1daf0</color>
   <color name="color_cobalt_blue_40">#ffa3b6e0</color>
   <color name="color_cobalt_blue_60">#ff7692d2</color>
   <color name="color_cobalt_blue_80">#ff486dc2</color>
-  <color name="color_cobalt_blue_base">#ff0047ba</color>
+  <color name="color_cobalt_blue_base">#ff0022cb</color>
   <color name="color_sky_blue_20">#ffdbedf8</color>
   <color name="color_sky_blue_40">#ffb6daf1</color>
   <color name="color_sky_blue_60">#ff92c9ea</color>
@@ -46,10 +46,10 @@
   <color name="color_accent_orange_40">#fff9b7aa</color>
   <color name="color_accent_orange_60">#fff69380</color>
   <color name="color_accent_orange_80">#fff36f56</color>
-  <color name="color_accent_orange_base">#fff04c2c</color>
-  <color name="color_rag_red">#ffcf364e</color>
-  <color name="color_rag_amber">#fff0b02c</color>
-  <color name="color_rag_green">#ff40b549</color>
+  <color name="color_accent_orange_base">#ffff5c00</color>
+  <color name="color_rag_red">#ffc80000</color>
+  <color name="color_rag_amber">#ffb98922</color>
+  <color name="color_rag_green">#ff33913a</color>
   <color name="color_datacom_black">#ff151515</color>
   <color name="color_darkest_grey">#ff333333</color>
   <color name="color_dark_grey">#ff666666</color>
@@ -57,6 +57,6 @@
   <color name="color_light_grey">#ffdadada</color>
   <color name="color_extra_light_grey">#fff0f0f0</color>
   <color name="color_white">#ffffffff</color>
-  <color name="color_error_red">#ffcf364e</color>
+  <color name="color_error_red">#ffc80000</color>
   
 </resources>
