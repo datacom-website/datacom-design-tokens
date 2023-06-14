@@ -2,7 +2,7 @@
   "color": {
     "accent-pink": {
       "base": {
-        "value": "#E60060"
+        "value": "#FF0070"
       },
       "80": {
         "value": "#EB337F"
@@ -19,7 +19,7 @@
     },
     "dark-blue": {
       "base": {
-        "value": "#0A1839"
+        "value": "#000A14"
       },
       "80": {
         "value": "#3B4660"
@@ -36,7 +36,7 @@
     },
     "datacom-blue": {
       "base": {
-        "value": "#002470"
+        "value": "#00125E"
       },
       "80": {
         "value": "#334F8C"
@@ -52,14 +52,14 @@
       }
     },
     "action-blue": {
-      "value": "#0055FF"
+      "value": "#002BFE"
     },
     "action-blue-hover": {
-      "value": "#003FBC"
+      "value": "#0022CB"
     },
     "light-blue": {
       "base": {
-        "value": "#76C4FF"
+        "value": "#80A0F8"
       },
       "80": {
         "value": "#91CFFF"
@@ -76,7 +76,7 @@
     },
     "extra-light-blue": {
       "base": {
-        "value": "#E5F1FF"
+        "value": "#CCD9FC"
       },
       "80": {
         "value": "#EAF3FF"
@@ -93,7 +93,7 @@
     },
     "cobalt-blue": {
       "base": {
-        "value": "#0047BA"
+        "value": "#0022CB"
       },
       "80": {
         "value": "#486DC2"
@@ -127,7 +127,7 @@
     },
     "accent-orange": {
       "base": {
-        "value": "#F04C2C"
+        "value": "#FF5C00"
       },
       "80": {
         "value": "#F36F56"
@@ -144,13 +144,13 @@
     },
     "rag": {
       "red": {
-        "value": "#CF364E"
+        "value": "#C80000"
       },
       "amber": {
-        "value": "#F0B02C"
+        "value": "#B98922"
       },
       "green": {
-        "value": "#40B549"
+        "value": "#33913A"
       }
     },
     "datacom-black": {
@@ -175,7 +175,7 @@
       "value": "#FFFFFF"
     },
     "error-red": {
-      "value": "#CF364E"
+      "value": "#C80000"
     }
   }
 }
