@@ -176,6 +176,20 @@
     },
     "error-red": {
       "value": "#C80000"
+    },
+    "theme": {
+      "datapay": {
+        "value": "#CCF8FA"
+      },
+      "datascape": {
+        "value": "#E4D4FF"
+      },
+      "gateway": {
+        "value": "#FFF0CC"
+      },
+      "timpani": {
+        "value": "#CCE3FB"
+      }
     }
   }
 }

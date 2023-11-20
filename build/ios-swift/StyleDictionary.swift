@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 15 Jun 2023 04:21:31 GMT
+// Generated on Mon, 20 Nov 2023 21:51:25 GMT
 //
 
 
@@ -62,6 +62,10 @@ public class StyleDictionary {
     public static let colorSkyBlue60 = UIColor(red: 0.573, green: 0.788, blue: 0.918, alpha:1)
     public static let colorSkyBlue80 = UIColor(red: 0.427, green: 0.714, blue: 0.890, alpha:1)
     public static let colorSkyBlueBase = UIColor(red: 0.000, green: 0.655, blue: 0.882, alpha:1)
+    public static let colorThemeDatapay = UIColor(red: 0.800, green: 0.973, blue: 0.980, alpha:1)
+    public static let colorThemeDatascape = UIColor(red: 0.894, green: 0.831, blue: 1.000, alpha:1)
+    public static let colorThemeGateway = UIColor(red: 1.000, green: 0.941, blue: 0.800, alpha:1)
+    public static let colorThemeTimpani = UIColor(red: 0.800, green: 0.890, blue: 0.984, alpha:1)
     public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
     public static let fontColorCaption = UIColor(red: 0.400, green: 0.400, blue: 0.400, alpha:1)
     public static let fontColorCta = UIColor(red: 0.000, green: 0.169, blue: 0.996, alpha:1)

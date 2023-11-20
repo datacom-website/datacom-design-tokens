@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Thu, 15 Jun 2023 04:21:31 GMT
+// Generated on Mon, 20 Nov 2023 21:51:25 GMT
 //
 
 import UIKit
@@ -61,5 +61,9 @@ public enum StyleDictionaryColor {
     public static let skyBlue60 = UIColor(red: 0.573, green: 0.788, blue: 0.918, alpha:1)
     public static let skyBlue80 = UIColor(red: 0.427, green: 0.714, blue: 0.890, alpha:1)
     public static let skyBlueBase = UIColor(red: 0.000, green: 0.655, blue: 0.882, alpha:1)
+    public static let themeDatapay = UIColor(red: 0.800, green: 0.973, blue: 0.980, alpha:1)
+    public static let themeDatascape = UIColor(red: 0.894, green: 0.831, blue: 1.000, alpha:1)
+    public static let themeGateway = UIColor(red: 1.000, green: 0.941, blue: 0.800, alpha:1)
+    public static let themeTimpani = UIColor(red: 0.800, green: 0.890, blue: 0.984, alpha:1)
     public static let white = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha:1)
 }
