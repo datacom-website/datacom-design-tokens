@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 15 Jun 2023 04:21:31 GMT
+  Generated on Mon, 20 Nov 2023 21:51:25 GMT
 -->
 <resources>
   <color name="color_accent_pink_20">#fffaccdf</color>
@@ -58,5 +58,9 @@
   <color name="color_extra_light_grey">#fff0f0f0</color>
   <color name="color_white">#ffffffff</color>
   <color name="color_error_red">#ffc80000</color>
+  <color name="color_theme_datapay">#ffccf8fa</color>
+  <color name="color_theme_datascape">#ffe4d4ff</color>
+  <color name="color_theme_gateway">#fffff0cc</color>
+  <color name="color_theme_timpani">#ffcce3fb</color>
   
 </resources>
