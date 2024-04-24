@@ -1,13 +1,37 @@
 {
     "breakpoint": {
+        "mobile-01": {
+            "value": "400px"
+        },
         "mobile": {
             "value": "500px"
+        },
+        "mobile-02": {
+            "value": "600px"
+        },
+        "mobile-03": {
+            "value": "725px"
+        },
+        "mobile-04": {
+            "value": "768px"
         },
         "tablet": {
             "value": "900px"
         },
+        "tablet-01": {
+            "value": "1100px"
+        },
+        "tablet-02": {
+            "value": "1112px"
+        },
+        "tablet-03": {
+            "value": "1113px"
+        },
         "desktop": {
             "value": "1300px"
+        },
+        "desktop-01": {
+            "value": "1500px"
         }
     }
 }

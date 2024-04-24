@@ -1,5 +1,254 @@
 {
   "color": {
+    "midnight-blue": {
+      "base": {
+        "value": "#000A14"
+      },
+      "minus1": {
+        "value": "#1A232C"
+      },
+      "minus3": {
+        "value": "#80858A"
+      },
+      "minus4": {
+        "value": "#B3B6B9"
+      },
+      "minus5": {
+        "value": "#E6E7E8"
+      }
+    },
+    "royal-purple": {
+      "light": {
+        "value": "#B888FF"
+      },
+      "deep": {
+        "value": "#6B2FC6"
+      }
+    },
+    "admiral-blue": {
+      "base": {
+        "value": "#00167f"
+      },
+      "minus1": {
+        "value": "#334599"
+      },
+      "minus2": {
+        "value": "#808BBf"
+      },
+      "minus3": {
+        "value": "#CCD0E5"
+      },
+      "plus1": {
+        "value": "#001266"
+      },
+      "plus2": {
+        "value": "#000B40"
+      },
+      "plus3": {
+        "value": "#000419"
+      }
+    },
+    "electric-blue": {
+      "base": {
+        "value": "#002BFE"
+      },
+      "minus1": {
+        "value": "#3366F3"
+      },
+      "minus2": {
+        "value": "#80A0FB"
+      },
+      "minus3": {
+        "value": "#CCD9FC"
+      },
+      "plus1": {
+        "value": "#0022CB"
+      },
+      "plus2": {
+        "value": "#00167F"
+      },
+      "plus3": {
+        "value": "#000933"
+      }
+    },
+    "empress-teal": {
+      "base": {
+        "value": "#00D1C4"
+      },
+      "minus1": {
+        "value": "#33DAD0"
+      },
+      "minus2": {
+        "value": "#80E8E2"
+      },
+      "minus3": {
+        "value": "#CCF6F3"
+      },
+      "plus1": {
+        "value": "#00A79D"
+      },
+      "plus2": {
+        "value": "#006962"
+      },
+      "plus3": {
+        "value": "#002A27"
+      }
+    },
+    "sky-blue-v2": {
+      "base": {
+        "value": "#4ADEFF"
+      },
+      "minus1": {
+        "value": "#6EE5FF"
+      },
+      "minus2": {
+        "value": "#A5EFFF"
+      },
+      "minus3": {
+        "value": "#DBF8FF"
+      },
+      "plus1": {
+        "value": "#3BB2CC"
+      },
+      "plus2": {
+        "value": "#256F80"
+      },
+      "plus3": {
+        "value": "#0F2C33"
+      }
+    },
+    "candy-pink": {
+      "base": {
+        "value": "#FF0070"
+      },
+      "minus1": {
+        "value": "#FF338D"
+      },
+      "minus2": {
+        "value": "#FF80BB"
+      },
+      "minus3": {
+        "value": "#FFCCE2"
+      },
+      "plus1": {
+        "value": "#CC005A"
+      },
+      "plus2": {
+        "value": "#800038"
+      },
+      "plus3": {
+        "value": "#330016"
+      }
+    },
+    "tangerine-orange": {
+      "base": {
+        "value": "#FF5C00"
+      },
+      "minus1": {
+        "value": "#FF7D33"
+      },
+      "minus2": {
+        "value": "#FFAE80"
+      },
+      "minus3": {
+        "value": "#FFDECC"
+      },
+      "plus1": {
+        "value": "#CC4A00"
+      },
+      "plus2": {
+        "value": "#802E00"
+      },
+      "plus3": {
+        "value": "#331200"
+      }
+    },
+    "datapay-turquoise": {
+      "base": {
+        "value": "#01DBE5"
+      },
+      "minus1": {
+        "value": "#34E2EA"
+      },
+      "minus2": {
+        "value": "#80EDF2"
+      },
+      "minus3": {
+        "value": "#CCF8FA"
+      },
+      "plus1": {
+        "value": "#01AFB7"
+      },
+      "plus2": {
+        "value": "#016E73"
+      },
+      "plus3": {
+        "value": "#002C2E"
+      }
+    },
+    "timpani-sapphire": {
+      "base": {
+        "value": "#0072ED"
+      },
+      "minus1": {
+        "value": "#338EF1"
+      },
+      "minus2": {
+        "value": "#80B9F6"
+      },
+      "minus3": {
+        "value": "#CCE3FB"
+      },
+      "plus1": {
+        "value": "#005BBE"
+      }
+    },
+    "datascape-indigo": {
+      "base": {
+        "value": "#7827FF"
+      },
+      "minus1": {
+        "value": "#9352FF"
+      },
+      "minus2": {
+        "value": "#BC93FF"
+      },
+      "minus3": {
+        "value": "#E4D4FF"
+      },
+      "plus1": {
+        "value": "#601FCC"
+      },
+      "plus2": {
+        "value": "#3C1480"
+      },
+      "plus3": {
+        "value": "#180833"
+      }
+    },
+    "gateway-gold": {
+      "base": {
+        "value": "#FEB301"
+      },
+      "minus1": {
+        "value": "#FEC234"
+      },
+      "minus2": {
+        "value": "#FFD980"
+      },
+      "minus3": {
+        "value": "#FFF0CC"
+      },
+      "plus1": {
+        "value": "#CB8F01"
+      },
+      "plus2": {
+        "value": "#7F5A01"
+      },
+      "plus3": {
+        "value": "#332400"
+      }
+    },
     "accent-pink": {
       "base": {
         "value": "#FF0070"
